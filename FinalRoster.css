@@ -1,0 +1,83 @@
+#header {
+	background-color: blue;
+	padding: 5px 0px 5px 0px;
+}
+
+#header h1{
+	font-family: Impact, Charcoal, sans-serif;
+	color: white;
+	float: right;
+	font-size: 105px;
+	padding-right: 50px;
+}
+
+#header img {
+	padding-left: 10px;
+}
+
+.links {
+	background-color: #0000A0;
+	height: 120px;
+}
+
+.links p {
+	color: white;
+	padding: 0px 30px 0px 50px;
+	font-size: 350%;
+	text-align: left;
+	
+}
+
+.links a:visited {
+    color: white;
+	text-decoration: none;
+}
+
+.links a:link {
+    color: white;
+	text-decoration: none;
+}
+
+table {
+	padding-top: 10px;
+	text-align: center;
+}
+
+#table img {
+	height:100px;
+	width: 80px;
+}
+
+body {
+	background-image: url("pictures/TeamLogoTrans.gif");
+	background-color: #d3d3d3;
+	background-repeat: no-repeat;
+	background-position: right center;
+	
+}
+
+table {
+	background-color: white;
+}
+
+
+#title h2{
+	font-size: 50px;
+	text-align: center;
+	color: blue;
+	text-decoration: underline;
+}
+
+footer {
+	background-color: blue;
+	height: 5%;
+	color: white;
+	text-align: center;
+}
+
+.name {
+	padding-left: 89%;
+	
+
+}
+	
